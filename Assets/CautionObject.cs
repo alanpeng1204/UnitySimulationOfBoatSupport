@@ -16,11 +16,11 @@ public class CautionObject : MonoBehaviour {
         var MarkerScript = transform.GetComponent<BoatMarker>();
         if(MarkerScript.getActive)
         {
-            transform.parent.Find("CautionObject").gameObject.SetActive(true);
+            transform.parent.parent.Find("CautionObject").gameObject.SetActive(true);
         }
         else
         {
-            transform.parent.Find("CautionObject").gameObject.SetActive(false);
+            transform.parent.parent.Find("CautionObject").gameObject.SetActive(false);
         }
     }
 }

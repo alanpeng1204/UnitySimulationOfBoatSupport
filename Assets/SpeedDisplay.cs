@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class SpeedDisplay : MonoBehaviour {
-    public KinematicVehicleSystem.KinematicBasicVehicle MyBoat;
+    public BoatController MyBoat;
 	// Use this for initialization
 	void Start () {
 		

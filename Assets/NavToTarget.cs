@@ -29,18 +29,15 @@ public class NavToTarget : MonoBehaviour {
                 autonav = false;
             BoatNav.speed = 20f;
             GameObject.Find("SoundSystem").GetComponent<SoundManager>().boatSpeed = 1;
-            //this.transform.parent = this.transform;
-            //GameObject.Find("MyBoat").transform.position = new Vector3(this.transform.position.x, GameObject.Find("MyBoat").transform.position.y, this.transform.position.z);
-            //GameObject.Find("MyBoat").transform.rotation = this.transform.rotation;
+            GameObject.Find("MyBoat").transform.position = new Vector3(this.transform.position.x, GameObject.Find("MyBoat").transform.position.y, this.transform.position.z);
+            GameObject.Find("MyBoat").transform.rotation = this.transform.rotation;
         }
         else
         {
+            this.transform.position = GameObject.Find("MyBoat").transform.position;
+            this.transform.rotation = GameObject.Find("MyBoat").transform.rotation;
             BoatNav.speed = 0.0f;
         }
-        //this.transform.position = GameObject.Find("Player").transform.position;
-        //this.transform.rotation = GameObject.Find("Player").transform.rotation;
-        GameObject.Find("Player").transform.position = this.transform.position;
-        GameObject.Find("Player").transform.rotation = this.transform.rotation;
         var Target = GameObject.Find("Target");
         var StartPos = GameObject.Find("LineStartPoint").transform.position;
         var Line = GetComponent<LineRenderer>();
