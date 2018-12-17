@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 1abca2bbfe669204c9322f1e23d9d1fe
+labels:
+- Hardsurface
+- Lowpoly
+- Environment
+- Prop
+- Building
+- Mobile
+- Game
+- Construction
+- Ships
+- Boats
+- Ship
+- Boat
+- Port
+- Docks
+- Harbour
+- Chimney
+- Crane
+- Containers
+- Factory
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
