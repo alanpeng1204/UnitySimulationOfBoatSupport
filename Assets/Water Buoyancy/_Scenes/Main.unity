@@ -2910,7 +2910,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   calculateDensity: 0
-  density: 0.7
+  density: 0.6
   normalizedVoxelSize: 0.5
   dragInWater: 1
   angularDragInWater: 2
@@ -8176,6 +8176,7 @@ GameObject:
   - component: {fileID: 829540699}
   - component: {fileID: 829540698}
   - component: {fileID: 829540697}
+  - component: {fileID: 829540700}
   m_Layer: 8
   m_Name: BigShip3
   m_TagString: Untagged
@@ -8254,6 +8255,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 829540695}
   m_Mesh: {fileID: 0}
+--- !u!114 &829540700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 829540695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff12750919f9abf41bc0e49423b0303f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Speed: 1.6
 --- !u!1 &839410675
 GameObject:
   m_ObjectHideFlags: 0
@@ -19346,7 +19359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   calculateDensity: 0
-  density: 0.7
+  density: 0.6
   normalizedVoxelSize: 0.5
   dragInWater: 1
   angularDragInWater: 2
@@ -22937,14 +22950,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BuoyancyRange: 400
   PenetrationTestMask:
-    serializedVersion: 2
     m_Bits: 535
   InteractiveObjectMask:
-    serializedVersion: 2
     m_Bits: 0
   OverlapCheckInterval: 0.1
   TestSpawnCount: 0
   TestPrefab: {fileID: 0}
+  LastOverlapCheck: 0
+  Controllers: []
 --- !u!4 &1783063776
 Transform:
   m_ObjectHideFlags: 0
@@ -23940,7 +23953,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   calculateDensity: 0
-  density: 0.7
+  density: 0.6
   normalizedVoxelSize: 0.5
   dragInWater: 1
   angularDragInWater: 2
