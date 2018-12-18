@@ -1,0 +1,2259 @@
+fileFormatVersion: 2
+guid: 318ba9daacd575c47915c2707117cf26
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 120AA Tu10
+    100002: 120AA Tur0
+    100004: 120AA Tur1
+    100006: 120AA Tur2
+    100008: 120AA Tur3
+    100010: 120AA Tur4
+    100012: 120AA Tur5
+    100014: 120AA Tur6
+    100016: 120AA Tur7
+    100018: 120AA Tur8
+    100020: 120AA Tur9
+    100022: 120AA Turr
+    100024: 4X QF 2-p0
+    100026: 4X QF 2-p1
+    100028: 4X QF 2-p2
+    100030: 4X QF 2-p3
+    100032: 4X QF 2-p4
+    100034: 4X QF 2-p5
+    100036: 4X QF 2-p6
+    100038: 4X QF 2-po
+    100040: 8X QF 2-10
+    100042: 8X QF 2-p0
+    100044: 8X QF 2-p1
+    100046: 8X QF 2-p2
+    100048: 8X QF 2-p3
+    100050: 8X QF 2-p4
+    100052: 8X QF 2-p5
+    100054: 8X QF 2-p6
+    100056: 8X QF 2-p7
+    100058: 8X QF 2-p8
+    100060: 8X QF 2-p9
+    100062: 8X QF 2-po
+    100064: Aim radar0
+    100066: Aim radar1
+    100068: Aim radarF
+    100070: Aim radarR
+    100072: ant
+    100074: ant_1
+    100076: Box02
+    100078: Box07
+    100080: Box08
+    100082: Box09
+    100084: Box10
+    100086: Box11
+    100088: Box12
+    100090: Box13
+    100092: Box15
+    100094: Box16
+    100096: Box17
+    100098: Box18
+    100100: Box25
+    100102: Box27
+    100104: Box28
+    100106: Box29
+    100108: Box30
+    100110: Box31
+    100112: Box32
+    100114: Box33
+    100116: Box34
+    100118: Box35
+    100120: Box36
+    100122: Box41
+    100124: Box42
+    100126: Box43
+    100128: Box44
+    100130: Box45
+    100132: Box46
+    100134: Box47
+    100136: Box48
+    100138: Box49
+    100140: Box50
+    100142: Box51
+    100144: Box52
+    100146: Box53
+    100148: Box54
+    100150: Box55
+    100152: Box56
+    100154: Box57
+    100156: Box58
+    100158: Box59
+    100160: Box60
+    100162: Box73
+    100164: Bracket_L
+    100166: Bracket_R
+    100168: bridge
+    100170: Cannon T10
+    100172: Cannon T11
+    100174: Cannon T12
+    100176: Cannon T13
+    100178: Cannon T14
+    100180: Cannon T15
+    100182: Cannon T16
+    100184: Cannon Tu0
+    100186: Cannon Tu1
+    100188: Cannon Tu2
+    100190: Cannon Tu3
+    100192: Cannon Tu4
+    100194: Cannon Tu5
+    100196: Cannon Tu6
+    100198: Cannon Tu7
+    100200: Cannon Tu8
+    100202: Cannon Tu9
+    100204: Cannon Tur
+    100206: crew11
+    100208: Cylinde100
+    100210: Cylinde101
+    100212: Cylinde102
+    100214: Cylinde103
+    100216: Cylinde104
+    100218: Cylinde105
+    100220: Cylinde106
+    100222: Cylinde107
+    100224: Cylinde108
+    100226: Cylinde109
+    100228: Cylinde110
+    100230: Cylinde111
+    100232: Cylinde112
+    100234: Cylinde113
+    100236: Cylinde114
+    100238: Cylinde115
+    100240: Cylinde116
+    100242: Cylinder01
+    100244: Cylinder02
+    100246: Cylinder03
+    100248: Cylinder06
+    100250: Cylinder07
+    100252: Cylinder08
+    100254: Cylinder09
+    100256: Cylinder10
+    100258: Cylinder11
+    100260: Cylinder12
+    100262: Cylinder13
+    100264: Cylinder14
+    100266: Cylinder15
+    100268: Cylinder16
+    100270: Cylinder17
+    100272: Cylinder18
+    100274: Cylinder19
+    100276: Cylinder20
+    100278: Cylinder21
+    100280: Cylinder22
+    100282: Cylinder23
+    100284: Cylinder24
+    100286: Cylinder25
+    100288: Cylinder26
+    100290: Cylinder27
+    100292: Cylinder28
+    100294: Cylinder29
+    100296: Cylinder30
+    100298: Cylinder31
+    100300: Cylinder32
+    100302: Cylinder33
+    100304: Cylinder34
+    100306: Cylinder35
+    100308: Cylinder36
+    100310: Cylinder37
+    100312: Cylinder38
+    100314: Cylinder39
+    100316: Cylinder40
+    100318: Cylinder41
+    100320: Cylinder42
+    100322: Cylinder43
+    100324: Cylinder44
+    100326: Cylinder45
+    100328: Cylinder46
+    100330: Cylinder47
+    100332: Cylinder48
+    100334: Cylinder49
+    100336: Cylinder50
+    100338: Cylinder51
+    100340: Cylinder52
+    100342: Cylinder53
+    100344: Cylinder54
+    100346: Cylinder55
+    100348: Cylinder56
+    100350: Cylinder57
+    100352: Cylinder58
+    100354: Cylinder59
+    100356: Cylinder60
+    100358: Cylinder61
+    100360: Cylinder62
+    100362: Cylinder63
+    100364: Cylinder64
+    100366: Cylinder65
+    100368: Cylinder66
+    100370: Cylinder67
+    100372: Cylinder68
+    100374: Cylinder69
+    100376: Cylinder70
+    100378: Cylinder71
+    100380: Cylinder72
+    100382: Cylinder73
+    100384: Cylinder74
+    100386: Cylinder75
+    100388: Cylinder76
+    100390: Cylinder77
+    100392: Cylinder78
+    100394: Cylinder79
+    100396: Cylinder80
+    100398: Cylinder81
+    100400: Cylinder82
+    100402: Cylinder83
+    100404: Cylinder84
+    100406: Cylinder85
+    100408: Cylinder86
+    100410: Cylinder87
+    100412: Cylinder88
+    100414: Cylinder89
+    100416: Cylinder90
+    100418: Cylinder91
+    100420: Cylinder92
+    100422: Cylinder93
+    100424: Cylinder94
+    100426: Cylinder95
+    100428: Cylinder96
+    100430: Cylinder97
+    100432: Cylinder98
+    100434: Cylinder99
+    100436: deck
+    100438: fa
+    100440: fa_
+    100442: falg
+    100444: handrail_1
+    100446: handrail_2
+    100448: Hull
+    100450: L01_01
+    100452: le-
+    100454: le-01
+    100456: le-02
+    100458: le-03
+    100460: 'life boat '
+    100462: Line01
+    100464: Line03
+    100466: Line07
+    100468: Line08
+    100470: Line11
+    100472: Line12
+    100474: Line13
+    100476: Line14
+    100478: Line15
+    100480: Line16
+    100482: Line18
+    100484: Line19
+    100486: Line23
+    100488: Line29
+    100490: Line31
+    100492: Line32
+    100494: Line33
+    100496: Line34
+    100498: Main batt0
+    100500: Main batt1
+    100502: Main batt2
+    100504: Main batt3
+    100506: Main batt4
+    100508: Main batt5
+    100510: Main batt6
+    100512: Main batt7
+    100514: Main batte
+    100516: Mast base
+    100518: Mbattery 0
+    100520: Mbattery L
+    100522: //RootNode
+    100524: Oerliko100
+    100526: Oerliko101
+    100528: Oerliko102
+    100530: Oerliko103
+    100532: Oerliko104
+    100534: Oerliko105
+    100536: Oerliko106
+    100538: Oerliko107
+    100540: Oerliko108
+    100542: Oerliko109
+    100544: Oerliko110
+    100546: Oerliko111
+    100548: Oerliko112
+    100550: Oerliko113
+    100552: Oerliko114
+    100554: Oerliko115
+    100556: Oerliko116
+    100558: Oerliko117
+    100560: Oerliko118
+    100562: Oerliko119
+    100564: Oerliko120
+    100566: Oerliko121
+    100568: Oerliko122
+    100570: Oerliko123
+    100572: Oerliko124
+    100574: Oerliko125
+    100576: Oerliko126
+    100578: Oerliko127
+    100580: Oerliko128
+    100582: Oerliko129
+    100584: Oerliko130
+    100586: Oerliko131
+    100588: Oerliko132
+    100590: Oerliko133
+    100592: Oerliko134
+    100594: Oerliko135
+    100596: Oerliko136
+    100598: Oerliko137
+    100600: Oerliko138
+    100602: Oerliko139
+    100604: Oerliko140
+    100606: Oerliko141
+    100608: Oerliko142
+    100610: Oerliko143
+    100612: Oerliko144
+    100614: Oerliko145
+    100616: Oerliko146
+    100618: Oerliko147
+    100620: Oerliko148
+    100622: Oerliko149
+    100624: Oerliko150
+    100626: Oerliko151
+    100628: Oerlikon10
+    100630: Oerlikon11
+    100632: Oerlikon12
+    100634: Oerlikon13
+    100636: Oerlikon14
+    100638: Oerlikon15
+    100640: Oerlikon16
+    100642: Oerlikon17
+    100644: Oerlikon18
+    100646: Oerlikon19
+    100648: Oerlikon20
+    100650: Oerlikon21
+    100652: Oerlikon22
+    100654: Oerlikon23
+    100656: Oerlikon24
+    100658: Oerlikon25
+    100660: Oerlikon26
+    100662: Oerlikon27
+    100664: Oerlikon28
+    100666: Oerlikon29
+    100668: Oerlikon30
+    100670: Oerlikon31
+    100672: Oerlikon32
+    100674: Oerlikon33
+    100676: Oerlikon34
+    100678: Oerlikon35
+    100680: Oerlikon36
+    100682: Oerlikon37
+    100684: Oerlikon38
+    100686: Oerlikon39
+    100688: Oerlikon40
+    100690: Oerlikon41
+    100692: Oerlikon42
+    100694: Oerlikon43
+    100696: Oerlikon44
+    100698: Oerlikon45
+    100700: Oerlikon46
+    100702: Oerlikon47
+    100704: Oerlikon48
+    100706: Oerlikon49
+    100708: Oerlikon50
+    100710: Oerlikon51
+    100712: Oerlikon52
+    100714: Oerlikon53
+    100716: Oerlikon54
+    100718: Oerlikon55
+    100720: Oerlikon56
+    100722: Oerlikon57
+    100724: Oerlikon58
+    100726: Oerlikon59
+    100728: Oerlikon60
+    100730: Oerlikon61
+    100732: Oerlikon62
+    100734: Oerlikon63
+    100736: Oerlikon64
+    100738: Oerlikon65
+    100740: Oerlikon66
+    100742: Oerlikon67
+    100744: Oerlikon68
+    100746: Oerlikon69
+    100748: Oerlikon70
+    100750: Oerlikon71
+    100752: Oerlikon72
+    100754: Oerlikon73
+    100756: Oerlikon74
+    100758: Oerlikon75
+    100760: Oerlikon76
+    100762: Oerlikon77
+    100764: Oerlikon78
+    100766: Oerlikon79
+    100768: Oerlikon80
+    100770: Oerlikon81
+    100772: Oerlikon82
+    100774: Oerlikon83
+    100776: Oerlikon84
+    100778: Oerlikon85
+    100780: Oerlikon86
+    100782: Oerlikon87
+    100784: Oerlikon88
+    100786: Oerlikon89
+    100788: Oerlikon90
+    100790: Oerlikon91
+    100792: Oerlikon92
+    100794: Oerlikon93
+    100796: Oerlikon94
+    100798: Oerlikon95
+    100800: Oerlikon96
+    100802: Oerlikon97
+    100804: Oerlikon98
+    100806: Oerlikon99
+    100808: OerlikonA0
+    100810: OerlikonA1
+    100812: OerlikonA2
+    100814: OerlikonA3
+    100816: OerlikonA4
+    100818: OerlikonA5
+    100820: OerlikonA6
+    100822: OerlikonA7
+    100824: OerlikonA8
+    100826: OerlikonA9
+    100828: OerlikonAA
+    100830: radio01
+    100832: radio2
+    100834: Railing
+    100836: Railing1
+    100838: Railing10
+    100840: Railing11
+    100842: Railing13
+    100844: Railing3
+    100846: Railing4
+    100848: Railing5
+    100850: Railing6
+    100852: Railing7
+    100854: Railing8
+    100856: Railing9
+    100858: Rear AA ba
+    100860: Rear ant b
+    100862: Sphere02
+    100864: srech lig0
+    100866: srech ligh
+    400000: 120AA Tu10
+    400002: 120AA Tur0
+    400004: 120AA Tur1
+    400006: 120AA Tur2
+    400008: 120AA Tur3
+    400010: 120AA Tur4
+    400012: 120AA Tur5
+    400014: 120AA Tur6
+    400016: 120AA Tur7
+    400018: 120AA Tur8
+    400020: 120AA Tur9
+    400022: 120AA Turr
+    400024: 4X QF 2-p0
+    400026: 4X QF 2-p1
+    400028: 4X QF 2-p2
+    400030: 4X QF 2-p3
+    400032: 4X QF 2-p4
+    400034: 4X QF 2-p5
+    400036: 4X QF 2-p6
+    400038: 4X QF 2-po
+    400040: 8X QF 2-10
+    400042: 8X QF 2-p0
+    400044: 8X QF 2-p1
+    400046: 8X QF 2-p2
+    400048: 8X QF 2-p3
+    400050: 8X QF 2-p4
+    400052: 8X QF 2-p5
+    400054: 8X QF 2-p6
+    400056: 8X QF 2-p7
+    400058: 8X QF 2-p8
+    400060: 8X QF 2-p9
+    400062: 8X QF 2-po
+    400064: Aim radar0
+    400066: Aim radar1
+    400068: Aim radarF
+    400070: Aim radarR
+    400072: ant
+    400074: ant_1
+    400076: Box02
+    400078: Box07
+    400080: Box08
+    400082: Box09
+    400084: Box10
+    400086: Box11
+    400088: Box12
+    400090: Box13
+    400092: Box15
+    400094: Box16
+    400096: Box17
+    400098: Box18
+    400100: Box25
+    400102: Box27
+    400104: Box28
+    400106: Box29
+    400108: Box30
+    400110: Box31
+    400112: Box32
+    400114: Box33
+    400116: Box34
+    400118: Box35
+    400120: Box36
+    400122: Box41
+    400124: Box42
+    400126: Box43
+    400128: Box44
+    400130: Box45
+    400132: Box46
+    400134: Box47
+    400136: Box48
+    400138: Box49
+    400140: Box50
+    400142: Box51
+    400144: Box52
+    400146: Box53
+    400148: Box54
+    400150: Box55
+    400152: Box56
+    400154: Box57
+    400156: Box58
+    400158: Box59
+    400160: Box60
+    400162: Box73
+    400164: Bracket_L
+    400166: Bracket_R
+    400168: bridge
+    400170: Cannon T10
+    400172: Cannon T11
+    400174: Cannon T12
+    400176: Cannon T13
+    400178: Cannon T14
+    400180: Cannon T15
+    400182: Cannon T16
+    400184: Cannon Tu0
+    400186: Cannon Tu1
+    400188: Cannon Tu2
+    400190: Cannon Tu3
+    400192: Cannon Tu4
+    400194: Cannon Tu5
+    400196: Cannon Tu6
+    400198: Cannon Tu7
+    400200: Cannon Tu8
+    400202: Cannon Tu9
+    400204: Cannon Tur
+    400206: crew11
+    400208: Cylinde100
+    400210: Cylinde101
+    400212: Cylinde102
+    400214: Cylinde103
+    400216: Cylinde104
+    400218: Cylinde105
+    400220: Cylinde106
+    400222: Cylinde107
+    400224: Cylinde108
+    400226: Cylinde109
+    400228: Cylinde110
+    400230: Cylinde111
+    400232: Cylinde112
+    400234: Cylinde113
+    400236: Cylinde114
+    400238: Cylinde115
+    400240: Cylinde116
+    400242: Cylinder01
+    400244: Cylinder02
+    400246: Cylinder03
+    400248: Cylinder06
+    400250: Cylinder07
+    400252: Cylinder08
+    400254: Cylinder09
+    400256: Cylinder10
+    400258: Cylinder11
+    400260: Cylinder12
+    400262: Cylinder13
+    400264: Cylinder14
+    400266: Cylinder15
+    400268: Cylinder16
+    400270: Cylinder17
+    400272: Cylinder18
+    400274: Cylinder19
+    400276: Cylinder20
+    400278: Cylinder21
+    400280: Cylinder22
+    400282: Cylinder23
+    400284: Cylinder24
+    400286: Cylinder25
+    400288: Cylinder26
+    400290: Cylinder27
+    400292: Cylinder28
+    400294: Cylinder29
+    400296: Cylinder30
+    400298: Cylinder31
+    400300: Cylinder32
+    400302: Cylinder33
+    400304: Cylinder34
+    400306: Cylinder35
+    400308: Cylinder36
+    400310: Cylinder37
+    400312: Cylinder38
+    400314: Cylinder39
+    400316: Cylinder40
+    400318: Cylinder41
+    400320: Cylinder42
+    400322: Cylinder43
+    400324: Cylinder44
+    400326: Cylinder45
+    400328: Cylinder46
+    400330: Cylinder47
+    400332: Cylinder48
+    400334: Cylinder49
+    400336: Cylinder50
+    400338: Cylinder51
+    400340: Cylinder52
+    400342: Cylinder53
+    400344: Cylinder54
+    400346: Cylinder55
+    400348: Cylinder56
+    400350: Cylinder57
+    400352: Cylinder58
+    400354: Cylinder59
+    400356: Cylinder60
+    400358: Cylinder61
+    400360: Cylinder62
+    400362: Cylinder63
+    400364: Cylinder64
+    400366: Cylinder65
+    400368: Cylinder66
+    400370: Cylinder67
+    400372: Cylinder68
+    400374: Cylinder69
+    400376: Cylinder70
+    400378: Cylinder71
+    400380: Cylinder72
+    400382: Cylinder73
+    400384: Cylinder74
+    400386: Cylinder75
+    400388: Cylinder76
+    400390: Cylinder77
+    400392: Cylinder78
+    400394: Cylinder79
+    400396: Cylinder80
+    400398: Cylinder81
+    400400: Cylinder82
+    400402: Cylinder83
+    400404: Cylinder84
+    400406: Cylinder85
+    400408: Cylinder86
+    400410: Cylinder87
+    400412: Cylinder88
+    400414: Cylinder89
+    400416: Cylinder90
+    400418: Cylinder91
+    400420: Cylinder92
+    400422: Cylinder93
+    400424: Cylinder94
+    400426: Cylinder95
+    400428: Cylinder96
+    400430: Cylinder97
+    400432: Cylinder98
+    400434: Cylinder99
+    400436: deck
+    400438: fa
+    400440: fa_
+    400442: falg
+    400444: handrail_1
+    400446: handrail_2
+    400448: Hull
+    400450: L01_01
+    400452: le-
+    400454: le-01
+    400456: le-02
+    400458: le-03
+    400460: 'life boat '
+    400462: Line01
+    400464: Line03
+    400466: Line07
+    400468: Line08
+    400470: Line11
+    400472: Line12
+    400474: Line13
+    400476: Line14
+    400478: Line15
+    400480: Line16
+    400482: Line18
+    400484: Line19
+    400486: Line23
+    400488: Line29
+    400490: Line31
+    400492: Line32
+    400494: Line33
+    400496: Line34
+    400498: Main batt0
+    400500: Main batt1
+    400502: Main batt2
+    400504: Main batt3
+    400506: Main batt4
+    400508: Main batt5
+    400510: Main batt6
+    400512: Main batt7
+    400514: Main batte
+    400516: Mast base
+    400518: Mbattery 0
+    400520: Mbattery L
+    400522: //RootNode
+    400524: Oerliko100
+    400526: Oerliko101
+    400528: Oerliko102
+    400530: Oerliko103
+    400532: Oerliko104
+    400534: Oerliko105
+    400536: Oerliko106
+    400538: Oerliko107
+    400540: Oerliko108
+    400542: Oerliko109
+    400544: Oerliko110
+    400546: Oerliko111
+    400548: Oerliko112
+    400550: Oerliko113
+    400552: Oerliko114
+    400554: Oerliko115
+    400556: Oerliko116
+    400558: Oerliko117
+    400560: Oerliko118
+    400562: Oerliko119
+    400564: Oerliko120
+    400566: Oerliko121
+    400568: Oerliko122
+    400570: Oerliko123
+    400572: Oerliko124
+    400574: Oerliko125
+    400576: Oerliko126
+    400578: Oerliko127
+    400580: Oerliko128
+    400582: Oerliko129
+    400584: Oerliko130
+    400586: Oerliko131
+    400588: Oerliko132
+    400590: Oerliko133
+    400592: Oerliko134
+    400594: Oerliko135
+    400596: Oerliko136
+    400598: Oerliko137
+    400600: Oerliko138
+    400602: Oerliko139
+    400604: Oerliko140
+    400606: Oerliko141
+    400608: Oerliko142
+    400610: Oerliko143
+    400612: Oerliko144
+    400614: Oerliko145
+    400616: Oerliko146
+    400618: Oerliko147
+    400620: Oerliko148
+    400622: Oerliko149
+    400624: Oerliko150
+    400626: Oerliko151
+    400628: Oerlikon10
+    400630: Oerlikon11
+    400632: Oerlikon12
+    400634: Oerlikon13
+    400636: Oerlikon14
+    400638: Oerlikon15
+    400640: Oerlikon16
+    400642: Oerlikon17
+    400644: Oerlikon18
+    400646: Oerlikon19
+    400648: Oerlikon20
+    400650: Oerlikon21
+    400652: Oerlikon22
+    400654: Oerlikon23
+    400656: Oerlikon24
+    400658: Oerlikon25
+    400660: Oerlikon26
+    400662: Oerlikon27
+    400664: Oerlikon28
+    400666: Oerlikon29
+    400668: Oerlikon30
+    400670: Oerlikon31
+    400672: Oerlikon32
+    400674: Oerlikon33
+    400676: Oerlikon34
+    400678: Oerlikon35
+    400680: Oerlikon36
+    400682: Oerlikon37
+    400684: Oerlikon38
+    400686: Oerlikon39
+    400688: Oerlikon40
+    400690: Oerlikon41
+    400692: Oerlikon42
+    400694: Oerlikon43
+    400696: Oerlikon44
+    400698: Oerlikon45
+    400700: Oerlikon46
+    400702: Oerlikon47
+    400704: Oerlikon48
+    400706: Oerlikon49
+    400708: Oerlikon50
+    400710: Oerlikon51
+    400712: Oerlikon52
+    400714: Oerlikon53
+    400716: Oerlikon54
+    400718: Oerlikon55
+    400720: Oerlikon56
+    400722: Oerlikon57
+    400724: Oerlikon58
+    400726: Oerlikon59
+    400728: Oerlikon60
+    400730: Oerlikon61
+    400732: Oerlikon62
+    400734: Oerlikon63
+    400736: Oerlikon64
+    400738: Oerlikon65
+    400740: Oerlikon66
+    400742: Oerlikon67
+    400744: Oerlikon68
+    400746: Oerlikon69
+    400748: Oerlikon70
+    400750: Oerlikon71
+    400752: Oerlikon72
+    400754: Oerlikon73
+    400756: Oerlikon74
+    400758: Oerlikon75
+    400760: Oerlikon76
+    400762: Oerlikon77
+    400764: Oerlikon78
+    400766: Oerlikon79
+    400768: Oerlikon80
+    400770: Oerlikon81
+    400772: Oerlikon82
+    400774: Oerlikon83
+    400776: Oerlikon84
+    400778: Oerlikon85
+    400780: Oerlikon86
+    400782: Oerlikon87
+    400784: Oerlikon88
+    400786: Oerlikon89
+    400788: Oerlikon90
+    400790: Oerlikon91
+    400792: Oerlikon92
+    400794: Oerlikon93
+    400796: Oerlikon94
+    400798: Oerlikon95
+    400800: Oerlikon96
+    400802: Oerlikon97
+    400804: Oerlikon98
+    400806: Oerlikon99
+    400808: OerlikonA0
+    400810: OerlikonA1
+    400812: OerlikonA2
+    400814: OerlikonA3
+    400816: OerlikonA4
+    400818: OerlikonA5
+    400820: OerlikonA6
+    400822: OerlikonA7
+    400824: OerlikonA8
+    400826: OerlikonA9
+    400828: OerlikonAA
+    400830: radio01
+    400832: radio2
+    400834: Railing
+    400836: Railing1
+    400838: Railing10
+    400840: Railing11
+    400842: Railing13
+    400844: Railing3
+    400846: Railing4
+    400848: Railing5
+    400850: Railing6
+    400852: Railing7
+    400854: Railing8
+    400856: Railing9
+    400858: Rear AA ba
+    400860: Rear ant b
+    400862: Sphere02
+    400864: srech lig0
+    400866: srech ligh
+    2100000: 03 - Default
+    2100002: 010 - Default
+    2100004: 02 - Default
+    2100006: 01 - Default
+    2300000: 120AA Tu10
+    2300002: 120AA Tur0
+    2300004: 120AA Tur1
+    2300006: 120AA Tur2
+    2300008: 120AA Tur3
+    2300010: 120AA Tur4
+    2300012: 120AA Tur5
+    2300014: 120AA Tur6
+    2300016: 120AA Tur7
+    2300018: 120AA Tur8
+    2300020: 120AA Tur9
+    2300022: 120AA Turr
+    2300024: 4X QF 2-p0
+    2300026: 4X QF 2-p1
+    2300028: 4X QF 2-p2
+    2300030: 4X QF 2-p3
+    2300032: 4X QF 2-p4
+    2300034: 4X QF 2-p5
+    2300036: 4X QF 2-p6
+    2300038: 4X QF 2-po
+    2300040: 8X QF 2-10
+    2300042: 8X QF 2-p0
+    2300044: 8X QF 2-p1
+    2300046: 8X QF 2-p2
+    2300048: 8X QF 2-p3
+    2300050: 8X QF 2-p4
+    2300052: 8X QF 2-p5
+    2300054: 8X QF 2-p6
+    2300056: 8X QF 2-p7
+    2300058: 8X QF 2-p8
+    2300060: 8X QF 2-p9
+    2300062: 8X QF 2-po
+    2300064: Aim radar0
+    2300066: Aim radar1
+    2300068: Aim radarF
+    2300070: Aim radarR
+    2300072: ant
+    2300074: ant_1
+    2300076: Box02
+    2300078: Box07
+    2300080: Box08
+    2300082: Box09
+    2300084: Box10
+    2300086: Box11
+    2300088: Box12
+    2300090: Box13
+    2300092: Box15
+    2300094: Box16
+    2300096: Box17
+    2300098: Box18
+    2300100: Box25
+    2300102: Box27
+    2300104: Box28
+    2300106: Box29
+    2300108: Box30
+    2300110: Box31
+    2300112: Box32
+    2300114: Box33
+    2300116: Box34
+    2300118: Box35
+    2300120: Box36
+    2300122: Box41
+    2300124: Box42
+    2300126: Box43
+    2300128: Box44
+    2300130: Box45
+    2300132: Box46
+    2300134: Box47
+    2300136: Box48
+    2300138: Box49
+    2300140: Box50
+    2300142: Box51
+    2300144: Box52
+    2300146: Box53
+    2300148: Box54
+    2300150: Box55
+    2300152: Box56
+    2300154: Box57
+    2300156: Box58
+    2300158: Box59
+    2300160: Box60
+    2300162: Box73
+    2300164: Bracket_L
+    2300166: Bracket_R
+    2300168: bridge
+    2300170: Cannon T10
+    2300172: Cannon T11
+    2300174: Cannon T12
+    2300176: Cannon T13
+    2300178: Cannon T14
+    2300180: Cannon T15
+    2300182: Cannon T16
+    2300184: Cannon Tu0
+    2300186: Cannon Tu1
+    2300188: Cannon Tu2
+    2300190: Cannon Tu3
+    2300192: Cannon Tu4
+    2300194: Cannon Tu5
+    2300196: Cannon Tu6
+    2300198: Cannon Tu7
+    2300200: Cannon Tu8
+    2300202: Cannon Tu9
+    2300204: Cannon Tur
+    2300206: crew11
+    2300208: Cylinde100
+    2300210: Cylinde101
+    2300212: Cylinde102
+    2300214: Cylinde103
+    2300216: Cylinde104
+    2300218: Cylinde105
+    2300220: Cylinde106
+    2300222: Cylinde107
+    2300224: Cylinde108
+    2300226: Cylinde109
+    2300228: Cylinde110
+    2300230: Cylinde111
+    2300232: Cylinde112
+    2300234: Cylinde113
+    2300236: Cylinde114
+    2300238: Cylinde115
+    2300240: Cylinde116
+    2300242: Cylinder01
+    2300244: Cylinder02
+    2300246: Cylinder03
+    2300248: Cylinder06
+    2300250: Cylinder07
+    2300252: Cylinder08
+    2300254: Cylinder09
+    2300256: Cylinder10
+    2300258: Cylinder11
+    2300260: Cylinder12
+    2300262: Cylinder13
+    2300264: Cylinder14
+    2300266: Cylinder15
+    2300268: Cylinder16
+    2300270: Cylinder17
+    2300272: Cylinder18
+    2300274: Cylinder19
+    2300276: Cylinder20
+    2300278: Cylinder21
+    2300280: Cylinder22
+    2300282: Cylinder23
+    2300284: Cylinder24
+    2300286: Cylinder25
+    2300288: Cylinder26
+    2300290: Cylinder27
+    2300292: Cylinder28
+    2300294: Cylinder29
+    2300296: Cylinder30
+    2300298: Cylinder31
+    2300300: Cylinder32
+    2300302: Cylinder33
+    2300304: Cylinder34
+    2300306: Cylinder35
+    2300308: Cylinder36
+    2300310: Cylinder37
+    2300312: Cylinder38
+    2300314: Cylinder39
+    2300316: Cylinder40
+    2300318: Cylinder41
+    2300320: Cylinder42
+    2300322: Cylinder43
+    2300324: Cylinder44
+    2300326: Cylinder45
+    2300328: Cylinder46
+    2300330: Cylinder47
+    2300332: Cylinder48
+    2300334: Cylinder49
+    2300336: Cylinder50
+    2300338: Cylinder51
+    2300340: Cylinder52
+    2300342: Cylinder53
+    2300344: Cylinder54
+    2300346: Cylinder55
+    2300348: Cylinder56
+    2300350: Cylinder57
+    2300352: Cylinder58
+    2300354: Cylinder59
+    2300356: Cylinder60
+    2300358: Cylinder61
+    2300360: Cylinder62
+    2300362: Cylinder63
+    2300364: Cylinder64
+    2300366: Cylinder65
+    2300368: Cylinder66
+    2300370: Cylinder67
+    2300372: Cylinder68
+    2300374: Cylinder69
+    2300376: Cylinder70
+    2300378: Cylinder71
+    2300380: Cylinder72
+    2300382: Cylinder73
+    2300384: Cylinder74
+    2300386: Cylinder75
+    2300388: Cylinder76
+    2300390: Cylinder77
+    2300392: Cylinder78
+    2300394: Cylinder79
+    2300396: Cylinder80
+    2300398: Cylinder81
+    2300400: Cylinder82
+    2300402: Cylinder83
+    2300404: Cylinder84
+    2300406: Cylinder85
+    2300408: Cylinder86
+    2300410: Cylinder87
+    2300412: Cylinder88
+    2300414: Cylinder89
+    2300416: Cylinder90
+    2300418: Cylinder91
+    2300420: Cylinder92
+    2300422: Cylinder93
+    2300424: Cylinder94
+    2300426: Cylinder95
+    2300428: Cylinder96
+    2300430: Cylinder97
+    2300432: Cylinder98
+    2300434: Cylinder99
+    2300436: deck
+    2300438: fa
+    2300440: fa_
+    2300442: falg
+    2300444: handrail_1
+    2300446: handrail_2
+    2300448: Hull
+    2300450: L01_01
+    2300452: le-
+    2300454: le-01
+    2300456: le-02
+    2300458: le-03
+    2300460: 'life boat '
+    2300462: Line01
+    2300464: Line03
+    2300466: Line07
+    2300468: Line08
+    2300470: Line11
+    2300472: Line12
+    2300474: Line13
+    2300476: Line14
+    2300478: Line15
+    2300480: Line16
+    2300482: Line18
+    2300484: Line19
+    2300486: Line23
+    2300488: Line29
+    2300490: Line31
+    2300492: Line32
+    2300494: Line33
+    2300496: Line34
+    2300498: Main batt0
+    2300500: Main batt1
+    2300502: Main batt2
+    2300504: Main batt3
+    2300506: Main batt4
+    2300508: Main batt5
+    2300510: Main batt6
+    2300512: Main batt7
+    2300514: Main batte
+    2300516: Mast base
+    2300518: Mbattery 0
+    2300520: Mbattery L
+    2300522: Oerliko100
+    2300524: Oerliko101
+    2300526: Oerliko102
+    2300528: Oerliko103
+    2300530: Oerliko104
+    2300532: Oerliko105
+    2300534: Oerliko106
+    2300536: Oerliko107
+    2300538: Oerliko108
+    2300540: Oerliko109
+    2300542: Oerliko110
+    2300544: Oerliko111
+    2300546: Oerliko112
+    2300548: Oerliko113
+    2300550: Oerliko114
+    2300552: Oerliko115
+    2300554: Oerliko116
+    2300556: Oerliko117
+    2300558: Oerliko118
+    2300560: Oerliko119
+    2300562: Oerliko120
+    2300564: Oerliko121
+    2300566: Oerliko122
+    2300568: Oerliko123
+    2300570: Oerliko124
+    2300572: Oerliko125
+    2300574: Oerliko126
+    2300576: Oerliko127
+    2300578: Oerliko128
+    2300580: Oerliko129
+    2300582: Oerliko130
+    2300584: Oerliko131
+    2300586: Oerliko132
+    2300588: Oerliko133
+    2300590: Oerliko134
+    2300592: Oerliko135
+    2300594: Oerliko136
+    2300596: Oerliko137
+    2300598: Oerliko138
+    2300600: Oerliko139
+    2300602: Oerliko140
+    2300604: Oerliko141
+    2300606: Oerliko142
+    2300608: Oerliko143
+    2300610: Oerliko144
+    2300612: Oerliko145
+    2300614: Oerliko146
+    2300616: Oerliko147
+    2300618: Oerliko148
+    2300620: Oerliko149
+    2300622: Oerliko150
+    2300624: Oerliko151
+    2300626: Oerlikon10
+    2300628: Oerlikon11
+    2300630: Oerlikon12
+    2300632: Oerlikon13
+    2300634: Oerlikon14
+    2300636: Oerlikon15
+    2300638: Oerlikon16
+    2300640: Oerlikon17
+    2300642: Oerlikon18
+    2300644: Oerlikon19
+    2300646: Oerlikon20
+    2300648: Oerlikon21
+    2300650: Oerlikon22
+    2300652: Oerlikon23
+    2300654: Oerlikon24
+    2300656: Oerlikon25
+    2300658: Oerlikon26
+    2300660: Oerlikon27
+    2300662: Oerlikon28
+    2300664: Oerlikon29
+    2300666: Oerlikon30
+    2300668: Oerlikon31
+    2300670: Oerlikon32
+    2300672: Oerlikon33
+    2300674: Oerlikon34
+    2300676: Oerlikon35
+    2300678: Oerlikon36
+    2300680: Oerlikon37
+    2300682: Oerlikon38
+    2300684: Oerlikon39
+    2300686: Oerlikon40
+    2300688: Oerlikon41
+    2300690: Oerlikon42
+    2300692: Oerlikon43
+    2300694: Oerlikon44
+    2300696: Oerlikon45
+    2300698: Oerlikon46
+    2300700: Oerlikon47
+    2300702: Oerlikon48
+    2300704: Oerlikon49
+    2300706: Oerlikon50
+    2300708: Oerlikon51
+    2300710: Oerlikon52
+    2300712: Oerlikon53
+    2300714: Oerlikon54
+    2300716: Oerlikon55
+    2300718: Oerlikon56
+    2300720: Oerlikon57
+    2300722: Oerlikon58
+    2300724: Oerlikon59
+    2300726: Oerlikon60
+    2300728: Oerlikon61
+    2300730: Oerlikon62
+    2300732: Oerlikon63
+    2300734: Oerlikon64
+    2300736: Oerlikon65
+    2300738: Oerlikon66
+    2300740: Oerlikon67
+    2300742: Oerlikon68
+    2300744: Oerlikon69
+    2300746: Oerlikon70
+    2300748: Oerlikon71
+    2300750: Oerlikon72
+    2300752: Oerlikon73
+    2300754: Oerlikon74
+    2300756: Oerlikon75
+    2300758: Oerlikon76
+    2300760: Oerlikon77
+    2300762: Oerlikon78
+    2300764: Oerlikon79
+    2300766: Oerlikon80
+    2300768: Oerlikon81
+    2300770: Oerlikon82
+    2300772: Oerlikon83
+    2300774: Oerlikon84
+    2300776: Oerlikon85
+    2300778: Oerlikon86
+    2300780: Oerlikon87
+    2300782: Oerlikon88
+    2300784: Oerlikon89
+    2300786: Oerlikon90
+    2300788: Oerlikon91
+    2300790: Oerlikon92
+    2300792: Oerlikon93
+    2300794: Oerlikon94
+    2300796: Oerlikon95
+    2300798: Oerlikon96
+    2300800: Oerlikon97
+    2300802: Oerlikon98
+    2300804: Oerlikon99
+    2300806: OerlikonA0
+    2300808: OerlikonA1
+    2300810: OerlikonA2
+    2300812: OerlikonA3
+    2300814: OerlikonA4
+    2300816: OerlikonA5
+    2300818: OerlikonA6
+    2300820: OerlikonA7
+    2300822: OerlikonA8
+    2300824: OerlikonA9
+    2300826: OerlikonAA
+    2300828: radio01
+    2300830: radio2
+    2300832: Railing
+    2300834: Railing1
+    2300836: Railing10
+    2300838: Railing11
+    2300840: Railing13
+    2300842: Railing3
+    2300844: Railing4
+    2300846: Railing5
+    2300848: Railing6
+    2300850: Railing7
+    2300852: Railing8
+    2300854: Railing9
+    2300856: Rear AA ba
+    2300858: Rear ant b
+    2300860: Sphere02
+    2300862: srech lig0
+    2300864: srech ligh
+    3300000: 120AA Tu10
+    3300002: 120AA Tur0
+    3300004: 120AA Tur1
+    3300006: 120AA Tur2
+    3300008: 120AA Tur3
+    3300010: 120AA Tur4
+    3300012: 120AA Tur5
+    3300014: 120AA Tur6
+    3300016: 120AA Tur7
+    3300018: 120AA Tur8
+    3300020: 120AA Tur9
+    3300022: 120AA Turr
+    3300024: 4X QF 2-p0
+    3300026: 4X QF 2-p1
+    3300028: 4X QF 2-p2
+    3300030: 4X QF 2-p3
+    3300032: 4X QF 2-p4
+    3300034: 4X QF 2-p5
+    3300036: 4X QF 2-p6
+    3300038: 4X QF 2-po
+    3300040: 8X QF 2-10
+    3300042: 8X QF 2-p0
+    3300044: 8X QF 2-p1
+    3300046: 8X QF 2-p2
+    3300048: 8X QF 2-p3
+    3300050: 8X QF 2-p4
+    3300052: 8X QF 2-p5
+    3300054: 8X QF 2-p6
+    3300056: 8X QF 2-p7
+    3300058: 8X QF 2-p8
+    3300060: 8X QF 2-p9
+    3300062: 8X QF 2-po
+    3300064: Aim radar0
+    3300066: Aim radar1
+    3300068: Aim radarF
+    3300070: Aim radarR
+    3300072: ant
+    3300074: ant_1
+    3300076: Box02
+    3300078: Box07
+    3300080: Box08
+    3300082: Box09
+    3300084: Box10
+    3300086: Box11
+    3300088: Box12
+    3300090: Box13
+    3300092: Box15
+    3300094: Box16
+    3300096: Box17
+    3300098: Box18
+    3300100: Box25
+    3300102: Box27
+    3300104: Box28
+    3300106: Box29
+    3300108: Box30
+    3300110: Box31
+    3300112: Box32
+    3300114: Box33
+    3300116: Box34
+    3300118: Box35
+    3300120: Box36
+    3300122: Box41
+    3300124: Box42
+    3300126: Box43
+    3300128: Box44
+    3300130: Box45
+    3300132: Box46
+    3300134: Box47
+    3300136: Box48
+    3300138: Box49
+    3300140: Box50
+    3300142: Box51
+    3300144: Box52
+    3300146: Box53
+    3300148: Box54
+    3300150: Box55
+    3300152: Box56
+    3300154: Box57
+    3300156: Box58
+    3300158: Box59
+    3300160: Box60
+    3300162: Box73
+    3300164: Bracket_L
+    3300166: Bracket_R
+    3300168: bridge
+    3300170: Cannon T10
+    3300172: Cannon T11
+    3300174: Cannon T12
+    3300176: Cannon T13
+    3300178: Cannon T14
+    3300180: Cannon T15
+    3300182: Cannon T16
+    3300184: Cannon Tu0
+    3300186: Cannon Tu1
+    3300188: Cannon Tu2
+    3300190: Cannon Tu3
+    3300192: Cannon Tu4
+    3300194: Cannon Tu5
+    3300196: Cannon Tu6
+    3300198: Cannon Tu7
+    3300200: Cannon Tu8
+    3300202: Cannon Tu9
+    3300204: Cannon Tur
+    3300206: crew11
+    3300208: Cylinde100
+    3300210: Cylinde101
+    3300212: Cylinde102
+    3300214: Cylinde103
+    3300216: Cylinde104
+    3300218: Cylinde105
+    3300220: Cylinde106
+    3300222: Cylinde107
+    3300224: Cylinde108
+    3300226: Cylinde109
+    3300228: Cylinde110
+    3300230: Cylinde111
+    3300232: Cylinde112
+    3300234: Cylinde113
+    3300236: Cylinde114
+    3300238: Cylinde115
+    3300240: Cylinde116
+    3300242: Cylinder01
+    3300244: Cylinder02
+    3300246: Cylinder03
+    3300248: Cylinder06
+    3300250: Cylinder07
+    3300252: Cylinder08
+    3300254: Cylinder09
+    3300256: Cylinder10
+    3300258: Cylinder11
+    3300260: Cylinder12
+    3300262: Cylinder13
+    3300264: Cylinder14
+    3300266: Cylinder15
+    3300268: Cylinder16
+    3300270: Cylinder17
+    3300272: Cylinder18
+    3300274: Cylinder19
+    3300276: Cylinder20
+    3300278: Cylinder21
+    3300280: Cylinder22
+    3300282: Cylinder23
+    3300284: Cylinder24
+    3300286: Cylinder25
+    3300288: Cylinder26
+    3300290: Cylinder27
+    3300292: Cylinder28
+    3300294: Cylinder29
+    3300296: Cylinder30
+    3300298: Cylinder31
+    3300300: Cylinder32
+    3300302: Cylinder33
+    3300304: Cylinder34
+    3300306: Cylinder35
+    3300308: Cylinder36
+    3300310: Cylinder37
+    3300312: Cylinder38
+    3300314: Cylinder39
+    3300316: Cylinder40
+    3300318: Cylinder41
+    3300320: Cylinder42
+    3300322: Cylinder43
+    3300324: Cylinder44
+    3300326: Cylinder45
+    3300328: Cylinder46
+    3300330: Cylinder47
+    3300332: Cylinder48
+    3300334: Cylinder49
+    3300336: Cylinder50
+    3300338: Cylinder51
+    3300340: Cylinder52
+    3300342: Cylinder53
+    3300344: Cylinder54
+    3300346: Cylinder55
+    3300348: Cylinder56
+    3300350: Cylinder57
+    3300352: Cylinder58
+    3300354: Cylinder59
+    3300356: Cylinder60
+    3300358: Cylinder61
+    3300360: Cylinder62
+    3300362: Cylinder63
+    3300364: Cylinder64
+    3300366: Cylinder65
+    3300368: Cylinder66
+    3300370: Cylinder67
+    3300372: Cylinder68
+    3300374: Cylinder69
+    3300376: Cylinder70
+    3300378: Cylinder71
+    3300380: Cylinder72
+    3300382: Cylinder73
+    3300384: Cylinder74
+    3300386: Cylinder75
+    3300388: Cylinder76
+    3300390: Cylinder77
+    3300392: Cylinder78
+    3300394: Cylinder79
+    3300396: Cylinder80
+    3300398: Cylinder81
+    3300400: Cylinder82
+    3300402: Cylinder83
+    3300404: Cylinder84
+    3300406: Cylinder85
+    3300408: Cylinder86
+    3300410: Cylinder87
+    3300412: Cylinder88
+    3300414: Cylinder89
+    3300416: Cylinder90
+    3300418: Cylinder91
+    3300420: Cylinder92
+    3300422: Cylinder93
+    3300424: Cylinder94
+    3300426: Cylinder95
+    3300428: Cylinder96
+    3300430: Cylinder97
+    3300432: Cylinder98
+    3300434: Cylinder99
+    3300436: deck
+    3300438: fa
+    3300440: fa_
+    3300442: falg
+    3300444: handrail_1
+    3300446: handrail_2
+    3300448: Hull
+    3300450: L01_01
+    3300452: le-
+    3300454: le-01
+    3300456: le-02
+    3300458: le-03
+    3300460: 'life boat '
+    3300462: Line01
+    3300464: Line03
+    3300466: Line07
+    3300468: Line08
+    3300470: Line11
+    3300472: Line12
+    3300474: Line13
+    3300476: Line14
+    3300478: Line15
+    3300480: Line16
+    3300482: Line18
+    3300484: Line19
+    3300486: Line23
+    3300488: Line29
+    3300490: Line31
+    3300492: Line32
+    3300494: Line33
+    3300496: Line34
+    3300498: Main batt0
+    3300500: Main batt1
+    3300502: Main batt2
+    3300504: Main batt3
+    3300506: Main batt4
+    3300508: Main batt5
+    3300510: Main batt6
+    3300512: Main batt7
+    3300514: Main batte
+    3300516: Mast base
+    3300518: Mbattery 0
+    3300520: Mbattery L
+    3300522: Oerliko100
+    3300524: Oerliko101
+    3300526: Oerliko102
+    3300528: Oerliko103
+    3300530: Oerliko104
+    3300532: Oerliko105
+    3300534: Oerliko106
+    3300536: Oerliko107
+    3300538: Oerliko108
+    3300540: Oerliko109
+    3300542: Oerliko110
+    3300544: Oerliko111
+    3300546: Oerliko112
+    3300548: Oerliko113
+    3300550: Oerliko114
+    3300552: Oerliko115
+    3300554: Oerliko116
+    3300556: Oerliko117
+    3300558: Oerliko118
+    3300560: Oerliko119
+    3300562: Oerliko120
+    3300564: Oerliko121
+    3300566: Oerliko122
+    3300568: Oerliko123
+    3300570: Oerliko124
+    3300572: Oerliko125
+    3300574: Oerliko126
+    3300576: Oerliko127
+    3300578: Oerliko128
+    3300580: Oerliko129
+    3300582: Oerliko130
+    3300584: Oerliko131
+    3300586: Oerliko132
+    3300588: Oerliko133
+    3300590: Oerliko134
+    3300592: Oerliko135
+    3300594: Oerliko136
+    3300596: Oerliko137
+    3300598: Oerliko138
+    3300600: Oerliko139
+    3300602: Oerliko140
+    3300604: Oerliko141
+    3300606: Oerliko142
+    3300608: Oerliko143
+    3300610: Oerliko144
+    3300612: Oerliko145
+    3300614: Oerliko146
+    3300616: Oerliko147
+    3300618: Oerliko148
+    3300620: Oerliko149
+    3300622: Oerliko150
+    3300624: Oerliko151
+    3300626: Oerlikon10
+    3300628: Oerlikon11
+    3300630: Oerlikon12
+    3300632: Oerlikon13
+    3300634: Oerlikon14
+    3300636: Oerlikon15
+    3300638: Oerlikon16
+    3300640: Oerlikon17
+    3300642: Oerlikon18
+    3300644: Oerlikon19
+    3300646: Oerlikon20
+    3300648: Oerlikon21
+    3300650: Oerlikon22
+    3300652: Oerlikon23
+    3300654: Oerlikon24
+    3300656: Oerlikon25
+    3300658: Oerlikon26
+    3300660: Oerlikon27
+    3300662: Oerlikon28
+    3300664: Oerlikon29
+    3300666: Oerlikon30
+    3300668: Oerlikon31
+    3300670: Oerlikon32
+    3300672: Oerlikon33
+    3300674: Oerlikon34
+    3300676: Oerlikon35
+    3300678: Oerlikon36
+    3300680: Oerlikon37
+    3300682: Oerlikon38
+    3300684: Oerlikon39
+    3300686: Oerlikon40
+    3300688: Oerlikon41
+    3300690: Oerlikon42
+    3300692: Oerlikon43
+    3300694: Oerlikon44
+    3300696: Oerlikon45
+    3300698: Oerlikon46
+    3300700: Oerlikon47
+    3300702: Oerlikon48
+    3300704: Oerlikon49
+    3300706: Oerlikon50
+    3300708: Oerlikon51
+    3300710: Oerlikon52
+    3300712: Oerlikon53
+    3300714: Oerlikon54
+    3300716: Oerlikon55
+    3300718: Oerlikon56
+    3300720: Oerlikon57
+    3300722: Oerlikon58
+    3300724: Oerlikon59
+    3300726: Oerlikon60
+    3300728: Oerlikon61
+    3300730: Oerlikon62
+    3300732: Oerlikon63
+    3300734: Oerlikon64
+    3300736: Oerlikon65
+    3300738: Oerlikon66
+    3300740: Oerlikon67
+    3300742: Oerlikon68
+    3300744: Oerlikon69
+    3300746: Oerlikon70
+    3300748: Oerlikon71
+    3300750: Oerlikon72
+    3300752: Oerlikon73
+    3300754: Oerlikon74
+    3300756: Oerlikon75
+    3300758: Oerlikon76
+    3300760: Oerlikon77
+    3300762: Oerlikon78
+    3300764: Oerlikon79
+    3300766: Oerlikon80
+    3300768: Oerlikon81
+    3300770: Oerlikon82
+    3300772: Oerlikon83
+    3300774: Oerlikon84
+    3300776: Oerlikon85
+    3300778: Oerlikon86
+    3300780: Oerlikon87
+    3300782: Oerlikon88
+    3300784: Oerlikon89
+    3300786: Oerlikon90
+    3300788: Oerlikon91
+    3300790: Oerlikon92
+    3300792: Oerlikon93
+    3300794: Oerlikon94
+    3300796: Oerlikon95
+    3300798: Oerlikon96
+    3300800: Oerlikon97
+    3300802: Oerlikon98
+    3300804: Oerlikon99
+    3300806: OerlikonA0
+    3300808: OerlikonA1
+    3300810: OerlikonA2
+    3300812: OerlikonA3
+    3300814: OerlikonA4
+    3300816: OerlikonA5
+    3300818: OerlikonA6
+    3300820: OerlikonA7
+    3300822: OerlikonA8
+    3300824: OerlikonA9
+    3300826: OerlikonAA
+    3300828: radio01
+    3300830: radio2
+    3300832: Railing
+    3300834: Railing1
+    3300836: Railing10
+    3300838: Railing11
+    3300840: Railing13
+    3300842: Railing3
+    3300844: Railing4
+    3300846: Railing5
+    3300848: Railing6
+    3300850: Railing7
+    3300852: Railing8
+    3300854: Railing9
+    3300856: Rear AA ba
+    3300858: Rear ant b
+    3300860: Sphere02
+    3300862: srech lig0
+    3300864: srech ligh
+    4300000: Hull
+    4300002: Line03
+    4300004: Line07
+    4300006: Line08
+    4300008: Sphere02
+    4300010: bridge
+    4300012: Cylinder03
+    4300014: Box02
+    4300016: Mast base
+    4300018: Box09
+    4300020: Cylinder61
+    4300022: Cylinder62
+    4300024: Cylinder63
+    4300026: Cylinder68
+    4300028: Cylinder67
+    4300030: Cylinder66
+    4300032: radio2
+    4300034: Cylinder96
+    4300036: radio01
+    4300038: Cylinder95
+    4300040: crew11
+    4300042: Cylinder22
+    4300044: Cylinder20
+    4300046: Cylinder09
+    4300048: Line01
+    4300050: 4X QF 2-po
+    4300052: 4X QF 2-p0
+    4300054: 4X QF 2-p1
+    4300056: 4X QF 2-p2
+    4300058: Line12
+    4300060: OerlikonAA
+    4300062: OerlikonA0
+    4300064: OerlikonA1
+    4300066: OerlikonA2
+    4300068: OerlikonA3
+    4300070: OerlikonA4
+    4300072: OerlikonA5
+    4300074: OerlikonA6
+    4300076: OerlikonA7
+    4300078: OerlikonA8
+    4300080: OerlikonA9
+    4300082: Oerlikon10
+    4300084: Box12
+    4300086: Railing7
+    4300088: le-
+    4300090: le-03
+    4300092: Bracket_L
+    4300094: Box27
+    4300096: Aim radarF
+    4300098: Aim radar0
+    4300100: Box10
+    4300102: Cylinder07
+    4300104: handrail_1
+    4300106: handrail_2
+    4300108: Railing9
+    4300110: Railing8
+    4300112: Oerlikon11
+    4300114: Oerlikon12
+    4300116: Oerlikon13
+    4300118: Oerlikon14
+    4300120: Oerlikon15
+    4300122: Oerlikon16
+    4300124: Cylinder21
+    4300126: Bracket_R
+    4300128: Cylinder23
+    4300130: Cylinder10
+    4300132: Cylinder24
+    4300134: Cylinder11
+    4300136: Cylinder12
+    4300138: Cylinder13
+    4300140: Cylinder25
+    4300142: le-01
+    4300144: le-02
+    4300146: Oerlikon17
+    4300148: Oerlikon18
+    4300150: Oerlikon19
+    4300152: Oerlikon20
+    4300154: Oerlikon21
+    4300156: Oerlikon22
+    4300158: Cylinder01
+    4300160: 8X QF 2-po
+    4300162: 8X QF 2-p0
+    4300164: Cylinder02
+    4300166: srech ligh
+    4300168: L01_01
+    4300170: srech lig0
+    4300172: Box07
+    4300174: Cylinder14
+    4300176: Cylinder15
+    4300178: Cylinder16
+    4300180: Cylinder18
+    4300182: ant
+    4300184: Cylinder31
+    4300186: ant_1
+    4300188: Cylinder75
+    4300190: Cylinder26
+    4300192: fa_
+    4300194: fa
+    4300196: Oerlikon23
+    4300198: Oerlikon24
+    4300200: Oerlikon25
+    4300202: Oerlikon26
+    4300204: Oerlikon27
+    4300206: Oerlikon28
+    4300208: Oerlikon29
+    4300210: Oerlikon30
+    4300212: Oerlikon31
+    4300214: Oerlikon32
+    4300216: Oerlikon33
+    4300218: Oerlikon34
+    4300220: Rear AA ba
+    4300222: Box08
+    4300224: Rear ant b
+    4300226: Box73
+    4300228: Cylinder97
+    4300230: 8X QF 2-p1
+    4300232: 8X QF 2-p2
+    4300234: 8X QF 2-p3
+    4300236: 8X QF 2-p4
+    4300238: 120AA Turr
+    4300240: 120AA Tur0
+    4300242: Cylinder28
+    4300244: Railing6
+    4300246: Railing5
+    4300248: Railing3
+    4300250: Railing4
+    4300252: Railing1
+    4300254: Cylinder98
+    4300256: Cylinder99
+    4300258: Cylinder17
+    4300260: Cylinder19
+    4300262: Cylinder27
+    4300264: Cylinder29
+    4300266: Cylinder30
+    4300268: Cylinder32
+    4300270: Cylinder33
+    4300272: Cylinder34
+    4300274: Cylinder35
+    4300276: Cylinder36
+    4300278: Cylinder37
+    4300280: Cylinder38
+    4300282: Cylinder39
+    4300284: Oerlikon35
+    4300286: Oerlikon36
+    4300288: Oerlikon37
+    4300290: Oerlikon38
+    4300292: Oerlikon39
+    4300294: Oerlikon40
+    4300296: Oerlikon41
+    4300298: Oerlikon42
+    4300300: Oerlikon43
+    4300302: Oerlikon44
+    4300304: Oerlikon45
+    4300306: Oerlikon46
+    4300308: Oerlikon47
+    4300310: Oerlikon48
+    4300312: Oerlikon49
+    4300314: Oerlikon50
+    4300316: Oerlikon51
+    4300318: Oerlikon52
+    4300320: Oerlikon53
+    4300322: Oerlikon54
+    4300324: Oerlikon55
+    4300326: Oerlikon56
+    4300328: Oerlikon57
+    4300330: Oerlikon58
+    4300332: Oerlikon59
+    4300334: Oerlikon60
+    4300336: Oerlikon61
+    4300338: Oerlikon62
+    4300340: Oerlikon63
+    4300342: Oerlikon64
+    4300344: Oerlikon65
+    4300346: Oerlikon66
+    4300348: Oerlikon67
+    4300350: Oerlikon68
+    4300352: Oerlikon69
+    4300354: Oerlikon70
+    4300356: Oerlikon71
+    4300358: Oerlikon72
+    4300360: Oerlikon73
+    4300362: Oerlikon74
+    4300364: Oerlikon75
+    4300366: Oerlikon76
+    4300368: Oerlikon77
+    4300370: Oerlikon78
+    4300372: Oerlikon79
+    4300374: Oerlikon80
+    4300376: Oerlikon81
+    4300378: Oerlikon82
+    4300380: Oerlikon83
+    4300382: Oerlikon84
+    4300384: Oerlikon85
+    4300386: Oerlikon86
+    4300388: Oerlikon87
+    4300390: Oerlikon88
+    4300392: Oerlikon89
+    4300394: Oerlikon90
+    4300396: Oerlikon91
+    4300398: Oerlikon92
+    4300400: Oerlikon93
+    4300402: Oerlikon94
+    4300404: Line16
+    4300406: Line33
+    4300408: Aim radarR
+    4300410: Aim radar1
+    4300412: Box11
+    4300414: Cylinder06
+    4300416: Cylinder40
+    4300418: Cylinder08
+    4300420: 8X QF 2-p5
+    4300422: 8X QF 2-p6
+    4300424: Cylinder89
+    4300426: 4X QF 2-p3
+    4300428: 4X QF 2-p4
+    4300430: Cylinder41
+    4300432: 4X QF 2-p5
+    4300434: 4X QF 2-p6
+    4300436: 120AA Tur1
+    4300438: 120AA Tur2
+    4300440: 120AA Tur3
+    4300442: 120AA Tur4
+    4300444: 120AA Tur5
+    4300446: 120AA Tur6
+    4300448: Cylinder42
+    4300450: Cylinder43
+    4300452: 8X QF 2-p7
+    4300454: 8X QF 2-p8
+    4300456: Cylinder44
+    4300458: Oerlikon95
+    4300460: Oerlikon96
+    4300462: Oerlikon97
+    4300464: Cannon Tur
+    4300466: Cannon Tu0
+    4300468: Cannon Tu1
+    4300470: Cannon Tu2
+    4300472: Cannon Tu3
+    4300474: Cannon Tu4
+    4300476: Main batte
+    4300478: 8X QF 2-p9
+    4300480: 8X QF 2-10
+    4300482: Mbattery L
+    4300484: Mbattery 0
+    4300486: Main batt0
+    4300488: Main batt1
+    4300490: Cylinder45
+    4300492: Main batt2
+    4300494: Main batt3
+    4300496: Main batt4
+    4300498: Cylinder46
+    4300500: Oerlikon98
+    4300502: Oerlikon99
+    4300504: Oerliko100
+    4300506: Line15
+    4300508: Box31
+    4300510: Box15
+    4300512: Box49
+    4300514: Box54
+    4300516: Box29
+    4300518: Box28
+    4300520: Box30
+    4300522: Cylinder57
+    4300524: Cylinder47
+    4300526: Cylinder71
+    4300528: Cylinder76
+    4300530: Cylinder74
+    4300532: Cylinder48
+    4300534: Box55
+    4300536: Line11
+    4300538: Line14
+    4300540: Line13
+    4300542: Box25
+    4300544: deck
+    4300546: Railing
+    4300548: Cylinder49
+    4300550: Line23
+    4300552: Line29
+    4300554: Box34
+    4300556: Box33
+    4300558: Box35
+    4300560: Box36
+    4300562: 'life boat '
+    4300564: Cylinder80
+    4300566: Line31
+    4300568: Box41
+    4300570: Box42
+    4300572: Box43
+    4300574: Box44
+    4300576: Cylinder50
+    4300578: Line32
+    4300580: Box45
+    4300582: Box46
+    4300584: Box47
+    4300586: Box48
+    4300588: Cylinder51
+    4300590: Cylinder52
+    4300592: Cylinder53
+    4300594: Cylinder54
+    4300596: Cylinder55
+    4300598: Cylinder56
+    4300600: Cylinder58
+    4300602: Cylinder59
+    4300604: Box13
+    4300606: Box53
+    4300608: Cylinder60
+    4300610: Cylinder64
+    4300612: Cylinder65
+    4300614: Cylinder69
+    4300616: Cylinder70
+    4300618: Cylinder72
+    4300620: Cylinder73
+    4300622: Cylinder77
+    4300624: Cylinder78
+    4300626: Cylinder79
+    4300628: Cylinder81
+    4300630: Cylinder82
+    4300632: Cylinder83
+    4300634: Cylinder84
+    4300636: Cylinder85
+    4300638: Cylinder86
+    4300640: Box57
+    4300642: Box60
+    4300644: Box59
+    4300646: Box18
+    4300648: Box17
+    4300650: Box56
+    4300652: Box16
+    4300654: Box32
+    4300656: Box58
+    4300658: Cylinder87
+    4300660: falg
+    4300662: Line34
+    4300664: Railing13
+    4300666: Line18
+    4300668: Railing10
+    4300670: Cylinder88
+    4300672: Railing11
+    4300674: Cylinder90
+    4300676: Oerliko101
+    4300678: Oerliko102
+    4300680: Oerliko103
+    4300682: Oerliko104
+    4300684: Oerliko105
+    4300686: Oerliko106
+    4300688: Oerliko107
+    4300690: Oerliko108
+    4300692: Oerliko109
+    4300694: Oerliko110
+    4300696: Oerliko111
+    4300698: Oerliko112
+    4300700: Oerliko113
+    4300702: Oerliko114
+    4300704: Oerliko115
+    4300706: Oerliko116
+    4300708: Oerliko117
+    4300710: Oerliko118
+    4300712: Oerliko119
+    4300714: Oerliko120
+    4300716: Oerliko121
+    4300718: Oerliko122
+    4300720: Oerliko123
+    4300722: Oerliko124
+    4300724: Oerliko125
+    4300726: Oerliko126
+    4300728: Oerliko127
+    4300730: Oerliko128
+    4300732: Oerliko129
+    4300734: Oerliko130
+    4300736: Oerliko131
+    4300738: Oerliko132
+    4300740: Oerliko133
+    4300742: Oerliko134
+    4300744: Oerliko135
+    4300746: Oerliko136
+    4300748: Oerliko137
+    4300750: Oerliko138
+    4300752: Oerliko139
+    4300754: Oerliko140
+    4300756: Oerliko141
+    4300758: Oerliko142
+    4300760: Oerliko143
+    4300762: Oerliko144
+    4300764: Oerliko145
+    4300766: Oerliko146
+    4300768: Oerliko147
+    4300770: Oerliko148
+    4300772: Oerliko149
+    4300774: Oerliko150
+    4300776: Oerliko151
+    4300778: Box50
+    4300780: Box51
+    4300782: Box52
+    4300784: Cylinder91
+    4300786: Cylinder92
+    4300788: Cylinder93
+    4300790: Main batt5
+    4300792: Main batt6
+    4300794: Main batt7
+    4300796: Cylinder94
+    4300798: Cannon Tu5
+    4300800: Cannon Tu6
+    4300802: Cannon Tu7
+    4300804: Cannon Tu8
+    4300806: Cannon Tu9
+    4300808: Cannon T10
+    4300810: Cannon T11
+    4300812: Cannon T12
+    4300814: Cannon T13
+    4300816: Cannon T14
+    4300818: Cannon T15
+    4300820: Cannon T16
+    4300822: 120AA Tur7
+    4300824: 120AA Tur8
+    4300826: 120AA Tur9
+    4300828: 120AA Tu10
+    4300830: Cylinde100
+    4300832: Cylinde101
+    4300834: Cylinde102
+    4300836: Cylinde103
+    4300838: Cylinde104
+    4300840: Cylinde105
+    4300842: Cylinde106
+    4300844: Cylinde107
+    4300846: Cylinde108
+    4300848: Cylinde109
+    4300850: Cylinde110
+    4300852: Cylinde111
+    4300854: Cylinde112
+    4300856: Cylinde113
+    4300858: Cylinde114
+    4300860: Cylinde115
+    4300862: Cylinde116
+    4300864: Line19
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
