@@ -8,13 +8,13 @@ public class BoatController : MonoBehaviour {
     [Range(0, 1)]
     public float MotorDeceleration = 1f;
     [Range(0, 1)]
-    public float SteerAcceleration = 1.0f;
+    public float SteerAcceleration = 0.4f;
     [Range(0, 1)]
     public float SteerDeceleration = 0.5f;
     [Range(0, 1)]
     public float MotorPower = 0.5f;
     [Range(0, 1)]
-    public float SteerPower = 1.0f;
+    public float SteerPower = 0.6f;
     float Motor = 0.0f;
     float Steer = 0.0f;
 	// Use this for initialization
