@@ -8,9 +8,10 @@ public class SpeedDisplay : MonoBehaviour {
 	void Start () {
 		
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    void Update()
+    {
         GetComponent<UnityEngine.UI.Text>().text = MyBoat.CurrentSpeed.ToString("f2");
         GameObject.Find("SoundSystem").GetComponent<SoundManager>().boatSpeed = Mathf.Abs(MyBoat.CurrentSpeed);
     }
