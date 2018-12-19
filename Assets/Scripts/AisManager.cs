@@ -6,6 +6,7 @@ public class AisManager : MonoBehaviour {
 
     public GameObject RadarSystem;
     public GameObject AisSystem;
+    public GameObject RadarRange;
 
     private int state = 0; // 0 -- Radar only; 1 -- AIS only; 2 -- Radar&AIS;
 
@@ -13,6 +14,7 @@ public class AisManager : MonoBehaviour {
 	void Start () {
         RadarSystem.SetActive(true);
         AisSystem.SetActive(false);
+        RadarRange.SetActive(false);
 	}
 	
 	// Update is called once per frame
@@ -32,14 +34,17 @@ public class AisManager : MonoBehaviour {
         if(targetState == 0) {
             RadarSystem.SetActive(true);
             AisSystem.SetActive(false);
+            RadarRange.SetActive(false);
         }
         else if(targetState == 1) {
             RadarSystem.SetActive(false);
             AisSystem.SetActive(true);
+            RadarRange.SetActive(false);
         }
         else {
             RadarSystem.SetActive(true);
             AisSystem.SetActive(true);
+            RadarRange.SetActive(true);
         }
     }
 }
