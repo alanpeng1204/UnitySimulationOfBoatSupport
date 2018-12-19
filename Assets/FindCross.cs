@@ -12,7 +12,7 @@ public class FindCross : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        CrossPoint.transform.position = Vector3.zero;
+        CrossPoint.transform.position = new Vector3(-50,0,0);
         var Line = GetComponent<LineRenderer>();
         if (Line.positionCount < 2)
             return;

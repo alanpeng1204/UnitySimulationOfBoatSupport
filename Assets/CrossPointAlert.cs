@@ -21,9 +21,9 @@ public class CrossPointAlert : MonoBehaviour {
             k = !k;
             var Sprite = GetComponent<SpriteRenderer>();
             if (k)
-                Sprite.color = new Color(1, 0, 0, 0.5f);
+                Sprite.color = new Color(1, 1, 0, 0.5f);
             else
-                Sprite.color = new Color(1, 0, 0, 1);
+                Sprite.color = new Color(1, 1, 0, 1);
         }
     }
 }
